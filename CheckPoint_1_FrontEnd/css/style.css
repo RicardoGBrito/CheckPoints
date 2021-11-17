@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/Salvador.png);
+    background-size:cover;
+
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    padding-top: 20px;
+    background-image: linear-gradient(to right,rgba(226,229,234,216),rgba(226,229,234,216),rgba(0,113,180,85));
+    
+    color:black;
+    font-size: 40px;
+}
+
+p{
+    font-size: 25px;
+    margin: 20px 200px 40px 200px;
+    color:rgba(0, 0, 0, 0.699);
+    padding-top: 20px;
+    
+}
+iframe{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+h2{
+    font-family: 'Lobster', cursive;
+    margin: 20px;
+    margin-top: 50px;
+    font-size:40px;
+    color:rgb(0, 0, 0);
+    padding-right: 700px;
+    
+}
+
+li{
+    font-size:25px;
+    color: rgba(0, 0, 0, 0.74);
+    text-align: left;
+    list-style: none;
+    font-weight:bold;
+}
+
+h3{
+    padding-right: 200px;
+    position: relative;
+    right: 70px;
+    
+}
+
+.pos1{
+    width: 50%;
+    margin-left:100px ;
+    text-align: left;
+}
+
+
+
+.img{
+    position: relative;
+    bottom:45px;
+}
